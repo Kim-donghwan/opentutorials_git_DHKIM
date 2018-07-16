@@ -16,11 +16,8 @@
 			<li>branch</li>
 			<li>宏罚摹</li>
 			<li>面倒</li>
-<<<<<<< HEAD
 			<li>面倒秦搬</li>
 			<li>盔拜历厘家</li>
-=======
->>>>>>> parent of dbac8c6... 鞗愱博鞝�鞛レ唽 於旉皜
 		</ul>
 		</u1>
 	</body>
